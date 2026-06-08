@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Fabian Hörst! <img align='right' src="[https://user-images.githubusercontent.com/62755943/167626161-d15e046b-4cd9-4cfc-b8d5-3d225400697a.png](https://github.com/user-attachments/assets/7c977775-9d55-499b-9c45-fd411a4ad59d)" width="250"> </h2> 
+<h2> Hi there, I'm Fabian Hörst, PhD! <img align='right' src="[https://user-images.githubusercontent.com/62755943/167626161-d15e046b-4cd9-4cfc-b8d5-3d225400697a.png](https://github.com/user-attachments/assets/7c977775-9d55-499b-9c45-fd411a4ad59d)" width="250"> </h2> 
 <p>
 Senior Applied AI/ML and Software Engineer</p>
 
